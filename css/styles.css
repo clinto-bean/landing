@@ -1,0 +1,126 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-size: 1rem;
+    background: linear-gradient(135deg, rgb(255, 220, 235) 0%, rgb(214, 233, 255) 50%, rgb(255, 220, 235) 100%);
+}
+
+hr {
+    border: 5px dashed #c4fcfc98;
+    width: 5%;
+    border-bottom: none;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #55b9b9;
+    margin: 100px, auto, 0, auto;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #6fa6aa;
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+h5 {
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+}
+
+.top-container {
+    padding-top: 200px;
+}
+
+.middle-container {
+    margin: 100 0;
+}
+
+.bottom-container {
+    padding-top: 25px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    display: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.contact-me {
+    padding-top: 1%;
+}
+
+.copyright{
+    font-size: .5rem;
+}
+
+.desc {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.link {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+.pfp {
+    height: 100px;
+    width: 100px;
+
+}
+
+.pitch {
+    width: 33.333333333333333333333333333333333333%;
+    padding-left: 33.333333333333333333333333333333333333%;
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+}
+
+.skillicon {
+    height: 128px;
+    width: 128px;
+    margin: auto;
+    float: left;
+    padding-right: 5%;
+}
+
+.skill-row {
+    padding-left: 25%;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.subtitle {
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+}
+
+.web-content {
+    position: relative;
+    top: 33.3333333333333333%;
+    margin: 0 auto;
+    height: 256px;
+    width: 256px;
+}
